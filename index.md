@@ -12,4 +12,19 @@
 ```git clone <project-url>```
 
 # Содержание
-[linke](https://github.com/FantomNexx/pages-angular-tips/blob/master/compiling-project.md)
+[- Изменения проекта](https://github.com/FantomNexx/pages-angular-tips/blob/master/project-change.md)
+
+[- Сборка проекта](https://github.com/FantomNexx/pages-angular-tips/blob/master/compiling-project.md)
+
+[- Локальный запуск](https://github.com/FantomNexx/pages-angular-tips/blob/master/local-run.md)
+
+[- Установка зависимостей](https://github.com/FantomNexx/pages-angular-tips/blob/master/settings-dependencies.md)
+
+[- Деплой сайта](https://github.com/FantomNexx/pages-angular-tips/blob/master/site-deploy.md)
+
+
+
+
+
+
+
