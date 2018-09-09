@@ -10,3 +10,6 @@
 
 Чтобы локально загрузить проект нужно перейти в папку где будет храниться проект и выполнить команду:
 ```git clone <project-url>```
+
+# Содержание
+[linke](https://github.com/FantomNexx/pages-angular-tips/blob/master/compiling-project.md)
