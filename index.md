@@ -1,5 +1,5 @@
 # Базовые компоненты
-## Node.js  и npm
+## Node.js и npm
 Установить LTS версию Node.js по ссылке https://nodejs.org/en.
 
 ## Git
@@ -10,6 +10,10 @@
 
 Чтобы локально загрузить проект нужно перейти в папку где будет храниться проект и выполнить команду:
 ```git clone <project-url>```
+
+## Angualr
+Скачать со страницы angularjs.org
+
 
 # Содержание
 [- Изменения проекта](https://github.com/FantomNexx/pages-angular-tips/blob/master/project-change.md)
