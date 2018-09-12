@@ -26,6 +26,9 @@
 ## Создание компонента
 ```ng g c <component-name>```
 
+## Создание сервиса
+```ng g s<service-name>```
+
 
 # Содержание
 [- Изменения проекта](https://github.com/FantomNexx/pages-angular-tips/blob/master/project-change.md)
