@@ -11,9 +11,17 @@
 Чтобы локально загрузить проект нужно перейти в папку где будет храниться проект и выполнить команду:
 ```git clone <project-url>```
 
-## Angualr
+## Установка Angualr вручную
 Скачать со страницы angularjs.org
 
+## Установка Angualr через npm
+```npm i @angular/cli```
+
+## Создание проекта
+```ng new <project-name>```
+
+## Сборка и запуск проекта
+```ng server```
 
 # Содержание
 [- Изменения проекта](https://github.com/FantomNexx/pages-angular-tips/blob/master/project-change.md)
