@@ -21,7 +21,7 @@
 ```ng new <project-name>```
 
 ## Сборка и запуск проекта
-```ng server```
+```ng serve```
 
 ## Создание компонента
 ```ng g c <component-name>```
