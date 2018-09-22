@@ -15,7 +15,7 @@
 Скачать со страницы angularjs.org
 
 ## Установка Angualr через npm
-```npm i g @angular/cli```
+```npm install -g @angular/cli```
 
 ## Создание проекта
 ```ng new <project-name>```
